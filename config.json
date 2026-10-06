@@ -1,0 +1,13 @@
+{
+    "name": "Audio References Sample Project",
+    "description": "Practice project with 20 images, each with one or two audio recordings attached. Perfect for trying the Audio tab of the Image Labeling Toolbox.",
+    "type": "project",
+    "categories": [
+        "import",
+        "images",
+        "project",
+        "audio"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/image-audio-references-sample-project/raw/master/media/icon.png",
+    "icon_cover": true
+}

@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/steam-locomotive-1.ogg",
+            "name": "Steam whistle",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Rail transport",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Steam locomotive gear (JŽ 06-018; Slovenia).jpg — Petar Milošević (CC BY-SA 4.0)",
+    "Audio credits": "WWS SteamWhistle.ogg — Work With Sounds / Konrad Gutkowski (CC BY 4.0)"
+}

@@ -1,0 +1,18 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/blacksmiths-forge-1.ogg",
+            "name": "Hammer on anvil",
+            "mimeType": "audio/ogg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/blacksmiths-forge-2.ogg",
+            "name": "Steel forging",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Metalworking",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Blacksmith forging a candlestick.jpg — Jacek Rużyczka (CC BY-SA 4.0)",
+    "Audio credits": "WWS Blacksmith8217sanvil.ogg — Work With Sounds / La Fonderie (CC BY 4.0) | WWS Smithysteelforging2.ogg — Work With Sounds / Museum of Municipal Engineering (CC BY 4.0)"
+}

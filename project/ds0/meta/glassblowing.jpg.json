@@ -1,0 +1,18 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/glassblowing-1.ogg",
+            "name": "Forming the body",
+            "mimeType": "audio/ogg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/glassblowing-2.ogg",
+            "name": "Forming the opening",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Glassmaking",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Mr Tony Kuepfer, glassblower.jpg — Archives New Zealand (CC BY 2.0)",
+    "Audio credits": "WWS Glass-blowingIformingthebody.ogg — Work With Sounds / Konrad Gutkowski (CC BY 4.0) | WWS Glass-blowingIIIformingthedrinkopening.ogg — Work With Sounds / Konrad Gutkowski (CC BY 4.0)"
+}

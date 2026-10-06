@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/tree-frog-1.ogg",
+            "name": "Night chorus",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Wildlife, amphibian",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Agalychnis callidryas.jpg — Christian R. Linder (CC BY-SA 3.0)",
+    "Audio credits": "Frogs croak calling chorus at night.ogg — JogiAsad (CC BY-SA 4.0)"
+}

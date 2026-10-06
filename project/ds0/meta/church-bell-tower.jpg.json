@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/church-bell-tower-1.ogg",
+            "name": "Bell ringing",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Religious architecture",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Bell tower of Church of Beheading of John the Baptist in Moscow.jpg — Dmitry Ivanov. (CC BY-SA 4.0)",
+    "Audio credits": "Geluid van de kerkklok van Aldeboarn - Church bell ringing in Aldeboarn, the Netherlands, 4 June 2022.oga — Hansmuller (CC BY-SA 4.0)"
+}

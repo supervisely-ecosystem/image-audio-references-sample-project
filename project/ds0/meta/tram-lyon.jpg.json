@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/tram-lyon-1.ogg",
+            "name": "Tram passing",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Urban transport",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Lyon tram perrache.jpg — Marcel Marchon (Flickr user lazytom) from Mountain View, CA, USA (CC BY-SA 2.0)",
+    "Audio credits": "Tram sound in Lyon, France.ogg — Glaneur de sons (CC BY 3.0)"
+}

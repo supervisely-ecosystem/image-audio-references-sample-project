@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/grey-wolf-1.ogg",
+            "name": "Howling",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Wildlife, mammal",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Grey Wolf Portrait.jpg — USFWS/Gary Kramer (Public domain)",
+    "Audio credits": "Wolf howls.ogg — unknown (Public domain)"
+}

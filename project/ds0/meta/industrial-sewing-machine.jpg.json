@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/industrial-sewing-machine-1.ogg",
+            "name": "Machine stitching",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Textile industry",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Industrial sewing machine.jpg — Haddybellz (CC BY-SA 4.0)",
+    "Audio credits": "WWS SewingMachine.ogg — Work With Sounds / Werstas (CC BY 4.0)"
+}

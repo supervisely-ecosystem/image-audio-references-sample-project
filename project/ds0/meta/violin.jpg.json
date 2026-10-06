@@ -1,0 +1,18 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/violin-1.ogg",
+            "name": "Bowing techniques",
+            "mimeType": "audio/ogg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/violin-2.ogg",
+            "name": "Tuning the strings",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Musical instrument",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Violin -- closeup (921738854).jpg — Jason Hollinger (CC BY 2.0)",
+    "Audio credits": "Violin sounds and techniques.ogg — Alex Dee (CC BY 2.5) | Violin tuning.ogg — Myself (CC BY-SA 3.0)"
+}

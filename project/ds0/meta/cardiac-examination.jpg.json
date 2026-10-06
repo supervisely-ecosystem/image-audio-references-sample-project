@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/cardiac-examination-1.ogg",
+            "name": "Mitral valve, 150 bpm",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Medical auscultation",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Heart-auscultation.jpg — MD Syria at Arabic Wikipedia (Public domain)",
+    "Audio credits": "Heartbeat mitral valve 150 bpm.ogg — ezwa (Public domain)"
+}

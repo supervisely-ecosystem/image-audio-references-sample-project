@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/printing-press-1.ogg",
+            "name": "Linotype line casting",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Printing",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Printing machine in press.jpg — முருகவேல்.வீ (CC BY-SA 4.0)",
+    "Audio credits": "WWS Linotypelinecastingmachine.ogg — Work With Sounds / Torsten Nilsson (CC BY 4.0)"
+}

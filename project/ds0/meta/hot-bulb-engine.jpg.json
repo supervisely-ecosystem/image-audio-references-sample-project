@@ -1,0 +1,18 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/hot-bulb-engine-1.ogg",
+            "name": "Engine running",
+            "mimeType": "audio/ogg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/hot-bulb-engine-2.ogg",
+            "name": "Engine shutting down",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Industrial machinery",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Hot bulb diesel engine Forum Marinum 1.JPG — MKFI (Public domain)",
+    "Audio credits": "WWS Hotbulbengineworking.ogg — Work With Sounds / Torsten Nilsson (CC BY 4.0) | WWS Hotbulbenginestopping.ogg — Work With Sounds / Torsten Nilsson (CC BY 4.0)"
+}

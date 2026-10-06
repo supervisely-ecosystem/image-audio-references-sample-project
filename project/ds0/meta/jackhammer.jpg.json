@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/jackhammer-1.ogg",
+            "name": "Pneumatic drill",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Construction",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Jackhammer.jpg — User Josh Parris on en.wikipedia (Public domain)",
+    "Audio credits": "Pneumatic drill - The Cleveland Pneumatic Tool Company.ogg — ldezem (CC0)"
+}

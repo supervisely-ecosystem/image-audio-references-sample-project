@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/wind-turbine-1.ogg",
+            "name": "Turbine running",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Renewable energy",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Windrad-Wind-Turbine.jpg — Philip May (CC BY-SA 3.0)",
+    "Audio credits": "WWS WindTurbine.ogg — Work With Sounds / Werstas (CC BY 4.0)"
+}

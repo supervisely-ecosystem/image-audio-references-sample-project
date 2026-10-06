@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/racing-car-1.ogg",
+            "name": "Lotus-Ford 38 engine",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Motorsport",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Formel3 racing car amk.jpg — user:AngMoKio (CC BY-SA 2.5)",
+    "Audio credits": "Lotus-Ford 38 (1965).ogg — Edvvc (CC BY-SA 3.0)"
+}

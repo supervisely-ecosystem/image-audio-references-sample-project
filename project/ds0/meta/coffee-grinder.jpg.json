@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/coffee-grinder-1.ogg",
+            "name": "Grinding beans",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Food preparation",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Baratza Encore burr coffee grinder and coffee beans.jpg — massage-techniques (CC BY-SA 2.0)",
+    "Audio credits": "Coffee grinder.ogg — smijen (Public domain)"
+}

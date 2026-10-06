@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/farm-tractor-1.ogg",
+            "name": "Tractor engine",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Agriculture",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Field-Marshall tractor, Cophill Farm vintage rally 2012.jpg — Andy Dingley (CC BY-SA 3.0)",
+    "Audio credits": "WWS TractorUrsusC328engine.ogg — Work With Sounds / Museum of Municipal Engineering (CC BY 4.0)"
+}

@@ -1,0 +1,13 @@
+{
+    "audio": [
+        {
+            "url": "https://raw.githubusercontent.com/supervisely-ecosystem/image-audio-references-sample-project/master/audio/mechanical-typewriter-1.ogg",
+            "name": "Typing",
+            "mimeType": "audio/ogg"
+        }
+    ],
+    "Domain": "Office equipment",
+    "Source": "Wikimedia Commons",
+    "Image credit": "Olivetti Lettera 82 portable mechanical typewriter.jpg — Suyash Dwivedi (CC BY-SA 4.0)",
+    "Audio credits": "WWS Typewriter.ogg — Work With Sounds / Konrad Gutkowski (CC BY 4.0)"
+}
