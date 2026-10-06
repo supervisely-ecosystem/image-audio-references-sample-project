@@ -36,7 +36,7 @@ The project has no classes, tags or annotations, so you can set up your own.
 
 Click **Get project** in the Ecosystem, or download the archive below and import it to your workspace as a Supervisely-format project. Then open any image and switch to the **Audio** tab.
 
-The audio plays straight from this GitHub repository, so your instance needs internet access to `raw.githubusercontent.com`.
+The audio plays straight from this GitHub repository, so it plays only in a browser that can reach `raw.githubusercontent.com`.
 
 ## Download
 
