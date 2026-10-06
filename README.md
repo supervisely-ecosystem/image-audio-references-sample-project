@@ -36,8 +36,6 @@ The project has no classes, tags or annotations, so you can set up your own.
 
 Click **Get project** in the Ecosystem, or download the archive below and import it to your workspace as a Supervisely-format project. Then open any image and switch to the **Audio** tab.
 
-The audio is streamed from this GitHub repository, so it plays only in a browser that can reach `raw.githubusercontent.com`.
-
 ## Download
 
 Download this practice project in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/image-audio-references-sample-project/releases/download/v1.0.0/project.zip)
