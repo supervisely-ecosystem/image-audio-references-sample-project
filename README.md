@@ -36,7 +36,7 @@ The project has no classes, tags or annotations, so you can set up your own.
 
 Click **Get project** in the Ecosystem, or download the archive below and import it to your workspace as a Supervisely-format project. Then open any image and switch to the **Audio** tab.
 
-The recordings are not inside the archive. Each image's metadata points to a file in the [`audio/`](audio) folder of this repository, so the player works on any instance whose users can reach `raw.githubusercontent.com`. To host the audio yourself, upload the files to Team Files and attach them with `api.image.upload_audio_reference` — see [Audio references on images](https://developer.supervisely.com/getting-started/python-sdk-tutorials/images/audio-references).
+The audio plays straight from this GitHub repository, so your instance needs internet access to `raw.githubusercontent.com`.
 
 ## Download
 
